@@ -1,6 +1,6 @@
 {
   "name": "pango-serialport",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pango component to work with serial ports",
   "main": "dist/index.js",
   "author": "Joe Ferner <joe@fernsroth.com>",
