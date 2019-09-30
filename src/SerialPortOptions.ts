@@ -76,7 +76,8 @@ async function getDeviceName(): Promise<string> {
         };
     });
     choices.push({
-        title: 'Other'
+        title: 'Other',
+        value: undefined
     });
     let response = await prompts({
         type: 'select',
